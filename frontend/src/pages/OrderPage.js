@@ -70,10 +70,10 @@ const OrderPage = () => {
 
                 <div className='flex flex-col lg:flex-row gap-10 mr-5  p-2'>
              
-                <div>
+                {/* <div>
                   <div className="text-lg font-medium">Address Details:</div>
                   <p className='ml-1'>Payment method: {item.paymentDetails?.payment_method_type[0]}</p>
-                </div>
+                </div> */}
 
                 <div>
                   <div className="text-lg font-medium">Payment Details:</div>
